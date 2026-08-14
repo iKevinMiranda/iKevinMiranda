@@ -10,7 +10,7 @@
 ---
 
 ### 💻 Sobre mim
-Migrei de uma carreira em operações para desenvolvimento de software após descobrir, na prática, que tecnologia era onde eu queria estar. Hoje atuo como **Desenvolvedor Backend Java** na **Foursys**, construindo APIs REST robustas e escaláveis. 
+Migrei de uma carreira em operações para desenvolvimento de software após descobrir, na prática, que tecnologia era onde eu queria estar. Hoje atuo como **Desenvolvedor Backend Java** na **Foursys**. 
 
 Estou cursando Desenvolvimento de Software Multiplataforma na **FATEC** e continuo em constante evolução através de especializações (como Java e Microsserviços pela Alura).
 
