@@ -33,3 +33,21 @@ Estou cursando Desenvolvimento de Software Multiplataforma na **FATEC** e contin
 
 * [LinkedIn](https://www.linkedin.com/in/kevin-jonathan-miranda/)
 * ✉️ Entre em contato comigo por lá para trocarmos ideia sobre tecnologia e projetos!
+<br>
+
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iKevinMiranda&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinMiranda&layout=compact&theme=radical" height="150" />
+</p>
+
+### 🐍 Minhas Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iKevinMiranda/iKevinMiranda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iKevinMiranda/iKevinMiranda/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iKevinMiranda/iKevinMiranda/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
