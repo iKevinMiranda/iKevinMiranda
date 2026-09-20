@@ -49,22 +49,11 @@ public class KevinMiranda {
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,postgres,git,github,idea,rabbitmq,linux&theme=dark" />
 </p>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [github-profile](https://github.com/iKevinMiranda/iKevinMiranda) | Profile README dinâmico com GitHub Actions | Markdown, GitHub Actions, SVG |
-| *(adicionar seus projetos públicos aqui)* | | |
-
-> **Dica:** Pin 3-5 repos públicos relevantes no perfil. Cada pinned repo deve ter README próprio com quickstart.
 
 ---
 
