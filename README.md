@@ -80,16 +80,7 @@ public class KevinMiranda {
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iKevinMiranda&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinMiranda&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iKevinMiranda&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iKevinMiranda&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
