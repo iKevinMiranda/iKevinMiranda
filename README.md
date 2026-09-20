@@ -1,4 +1,3 @@
-Certo, precisa subir agora né?
 <div align="center">
 
 <a href="https://github.com/iKevinMiranda">
