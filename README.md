@@ -9,11 +9,14 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=iKevinMiranda&style=for-the-badge&color=6DB33F&label=Visualizações+no+perfil" />
   <a href="https://www.linkedin.com/in/kevin-jonathan-miranda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Foursys-Desenvolvedor_Backend-1c1c1c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 </div>
@@ -22,33 +25,31 @@
 
 ## 💻 Sobre mim
 
-> Migrei de uma carreira em **operações administrativas em transportes** para **desenvolvimento de software** depois de descobrir, na prática, que tecnologia era onde eu queria estar. Hoje sigo essa jornada em constante evolução.
+> Migrei de **operações em transportes** para **desenvolvimento de software** depois de descobrir, na prática, que tecnologia era onde eu queria estar.
 
 ```java
 public class KevinMiranda {
-
     private String role = "Desenvolvedor Backend Java";
     private String company = "Foursys";
-    private String education = "Des. de Software Multiplataforma - FATEC";
-    private String[] currentFocus = {"Java", "Spring Boot", "Microsserviços"};
+    private String[] stack = {"Java", "Spring Boot", "Microsserviços", "RabbitMQ", "Docker"};
     private boolean openToConnect = true;
 
-    public static void main(String args) {
+    public static void main(String[] args) {
         System.out.println("Bora trocar uma ideia sobre tecnologia? 🚀");
     }
 }
 ```
 
-* ☕ Aprofundando conhecimentos no ecossistema **Java** e **Spring**.
-* 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC.
-* 🏢 Atuando como **Desenvolvedor Backend Java** na **Foursys**.
-* 📚 Especializações em **Java e Microsserviços** pela Alura.
-* 🌱 Explorando **mensageria (RabbitMQ)** e boas práticas de **DevOps** com Docker.
-* 💬 Pergunte-me sobre **Java, Spring Boot, Spring Security e arquitetura de APIs**.
+* ☕ **Java & Spring Boot** — APIs REST, Spring Security, Spring Data JPA
+* 🐳 **Docker** — Containerização e deploy de microsserviços
+* 📨 **RabbitMQ** — Mensageria assíncrona entre serviços
+* 🗄️ **PostgreSQL / MySQL** — Modelagem e otimização de queries
+* 🎓 **Des. de Software Multiplataforma** — FATEC
+* 📚 **Especializações** — Java & Microsserviços (Alura)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,postgres,git,github,idea,rabbitmq,linux&theme=dark" />
@@ -56,19 +57,30 @@ public class KevinMiranda {
 
 ---
 
-## 📬 Vamos nos conectar?
+## 📌 Projetos em Destaque
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevin-jonathan-miranda/">
-    <img src="https://img.shields.io/badge/-Kevin%20Miranda-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [github-profile](https://github.com/iKevinMiranda/iKevinMiranda) | Profile README dinâmico com GitHub Actions | Markdown, GitHub Actions, SVG |
+| *(adicionar seus projetos públicos aqui)* | | |
 
-<p align="center">✉️ Fico à disposição para trocar ideia sobre tecnologia, projetos e oportunidades!</p>
+> **Dica:** Pin 3-5 repos públicos relevantes no perfil. Cada pinned repo deve ter README próprio com quickstart.
 
 ---
 
-### 🐍 Minhas Contribuições
+## 📬 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-jonathan-miranda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">✉️ Aberto a conversas sobre tecnologia, arquitetura e oportunidades.</p>
+
+---
+
+### 🐍 Atividade de Contribuição
 
 <p align="center">
   <picture>
